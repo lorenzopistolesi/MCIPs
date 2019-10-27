@@ -37,7 +37,13 @@ if len(block.Transactions()) == 0 {
 
 ## Specification
 - After block 6.2M: We deploy step 1, then
-- After block 7.2M: We deploy step 2  
+- After block 7.2M: We deploy step 2
+
+## Fix issues
+Change exchange rate on online wallet
+
+## Harmonise
+With running Believer and Ambassadors Program
 
 ## Backwards Compatibility
 - Both two steps require hardfork but fully compatible with previous blocks in logic
