@@ -33,6 +33,12 @@ if len(block.Transactions()) == 0 {
 .....
 ```
 2. Progress a block with at least one PPP contract. If there's no PPP, no blocks would be produced
+3. Create Masternodes protocol with rewards  for artists with 
+- more then 100 followers 
+- more then 10,000 tips, 
+- more then 10,000 streams
+- a collateral with 500,000 $music (received from fans too)
+
 
 
 ## Specification
